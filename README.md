@@ -8,3 +8,4 @@ test5
 Hello Ladies
 two Nigglet
 5 gugis
+gd = good day
