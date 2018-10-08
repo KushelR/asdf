@@ -9,6 +9,3 @@ Hello Ladies
 millions of Nigglets
 5 gugis
 gd = good days
-testing 123
-humungous hongabongaladongas
-badonkadoink
